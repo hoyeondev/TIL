@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AI 시력 검사 도구</title>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/opencv.js/4.8.0/opencv.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/opencv.js/4.5.5/opencv.js"></script>
     <style>
         * {
             margin: 0;
@@ -411,6 +413,31 @@
     </div>
 
     <script>
+        console.log('스크립트가 시작되었습니다.');
+        // document.ready로 페이지 로드되면 onOpenCvReady 호출
+        // document.addEventListener('DOMContentLoaded', function() {
+        //     console.log('DOM이 로드되었습니다.');
+        //     // OpenCV 로드 확인
+        //     console.log('gggggg');
+        //     onOpenCvReady();
+        //     if (typeof cv !== 'undefined') {
+        //     } else {
+        //         console.error('OpenCV가 로드되지 않았습니다.');
+        //         // updateStatus('OpenCV 라이브러리를 로드하는 중 오류가 발생했습니다.', 'danger');
+        //     }
+        // });
+
+        // 웹캠 시작 버튼 누르면 웹캠 호출
+        document.getElementById('startWebcam').addEventListener('click', startWebcam);
+        // 웹캠 중지 버튼 누르면 웹캠 중지
+        document.getElementById('stopWebcam').addEventListener('click', stopWebcam);
+        // 거리 보정 버튼 누르면 거리 보정
+        document.getElementById('calibrateBtn').addEventListener('click', calibrateDistance);
+        // 검사 시작 버튼 누르면 시력 검사 시작
+        document.getElementById('startTestBtn').addEventListener('click', startTest);
+        // 정답 제출 버튼 누르면 정답 제출
+        document.getElementById('submitAnswer').addEventListener('click', submitUserAnswer);
+
         // 전역 변수들
         let webcamStream = null;
         let isWebcamRunning = false;
@@ -460,6 +487,11 @@
         function onOpenCvReady() {
             console.log('OpenCV가 준비되었습니다.');
             updateStatus('OpenCV 라이브러리가 로드되었습니다.', 'success');
+        }
+
+        function updateStatus (message, type) {
+            testStatus.textContent = message;
+            testStatus.className = `status ${type}`;
         }
 
         // 웹캠 시작
@@ -760,4 +792,10 @@
                 recommendationHTML += '<p style="color: #27ae60;">✅ 정상 시력입니다. 정기적인 시력 검사를 권장합니다.</p>';
             } else if (finalVision >= 0.7) {
                 recommendationHTML += '<p style="color: #f39c12;">⚠️ 경미한 시력 저하가 있을 수 있습니다. 안과 검진을 권장합니다.</p>';
-            } else if (finalVision >= 0.4
+            } else if (finalVision >= 0.4 ) {
+                recommendationHTML += '<p style="color: #e67e22;">⚠️ 시력 저하가 있습니다. 안과 검진을 권장합니다.</p>';
+            } else {
+                recommendationHTML += '<p style="color: #e74c3c;">❗ 심각한 시력 저하가 있습니다. 즉시 안과 검진을 받으세요.</p>';
+            }
+        }
+    </script>
