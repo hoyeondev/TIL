@@ -7,12 +7,12 @@ This repository contains my learning journey with ROS 2 (Robot Operating System 
 
 
 
-## 📅 Study Plan
-- ✅ Week 1: ROS 2 기본 개념, 설치
-- ✅ Week 2: 토픽, 서비스, 액션 이해
-- ✅ Week 3: Turtlesim 프로젝트
-- ⏳ Week 4: TurtleBot3 시뮬레이터
-- ⏳ Week 5: 자율 주행 로직 설계
+## 📅 Contents
+- ✅ Chapter1: ROS 2 기본 개념, 설치
+- ✅ Chapter2: 토픽, 서비스, 액션 이해
+- ✅ Chapter3: Python to ROS2
+
+<br>
 
 ## 🧠 주요 개념 정리
 - [x] ros2 topic pub/sub
