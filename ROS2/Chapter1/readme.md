@@ -5,8 +5,10 @@
 | 항목 | 정보 |
 |------|------|
 | OS   | Ubuntu 22.04 |
-| ROS2 | ROS 2 Humble Hawksbill |
+| ROS2 | ROS 2 Humble|
 
+- Ubuntu 22.04 : https://releases.ubuntu.com/jammy/
+- ROS 2 Humble : https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html
 ---
 
 ## 📌 1. ROS 2란?
