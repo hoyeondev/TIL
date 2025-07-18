@@ -9,5 +9,5 @@
 
 **2. [슬라이딩 윈도우 & 그리디 알고리즘](https://github.com/hoyeondev/TIL/blob/main/Algorithm/study/250718.md)**
    - 📌 활용 프로젝트
-     - [슬라이딩 윈도우](https://github.com/hoyeondev/TIL/blob/main/Algorithm/ex/bubble.py)
-     - [그리디 알고리즘](https://github.com/hoyeondev/TIL/blob/main/Algorithm/ex/binary_search.py)
+     - [슬라이딩 윈도우](https://github.com/hoyeondev/TIL/blob/main/Algorithm/ex/sliding_window.py)
+     - [그리디 알고리즘](https://github.com/hoyeondev/TIL/blob/main/Algorithm/ex/greedy_game.py)
