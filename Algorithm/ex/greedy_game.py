@@ -21,6 +21,8 @@ def clear():
 
 # 그리디 알고리즘 사용
 def manhattan_distance(a, b):
+    # abs 절대값 함수 사용
+    # x축, y축끼리 계산
     return abs(a[0] - b[0]) + abs(a[1] - b[1])
     
 def print_grid(grid):
