@@ -11,3 +11,7 @@
    - 📌 활용 프로젝트
      - [슬라이딩 윈도우](https://github.com/hoyeondev/TIL/blob/main/Algorithm/ex/sliding_window.py)
      - [그리디 알고리즘](https://github.com/hoyeondev/TIL/blob/main/Algorithm/ex/greedy_game.py)
+     - 
+**3.Turtle 라이브러리 활용**
+   - 📌 활용 프로젝트
+     - [스네이크 게임](https://github.com/hoyeondev/TIL/blob/main/Algorithm/ex/snake_game.py)
