@@ -12,7 +12,11 @@
      - [슬라이딩 윈도우](https://github.com/hoyeondev/TIL/blob/main/Algorithm/src/sliding_window.py)
      - [그리디 알고리즘](https://github.com/hoyeondev/TIL/blob/main/Algorithm/src/greedy_game.py)
        
-**3.Turtle 라이브러리 활용**
+**3.[Turtle 라이브러리 활용](https://github.com/hoyeondev/TIL/blob/main/Algorithm/study/250721.md)**
    - 📌 활용 프로젝트
      - [스네이크 게임](https://github.com/hoyeondev/TIL/blob/main/Algorithm/src/snake_game.py)
      - [장애물 피하기](https://github.com/hoyeondev/turtle01)
+
+**4. [Arduino와 Turtle 라이브러리 활용](https://github.com/hoyeondev/TIL/blob/main/Algorithm/study/250723.md)**
+   - 📌 활용 프로젝트
+      - [Turtle봇 시뮬레이터](https://github.com/hoyeondev/hardware01)
