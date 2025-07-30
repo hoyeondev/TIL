@@ -8,4 +8,4 @@
 
 **2. [이미지 프로세싱 기초](https://github.com/hoyeondev/opencv_02)**
 
-**3. [컨투어, OpenCV 라인 트레이싱](https://github.com/hoyeondev/opencv_tutorial/opencv_03)**
+**3. [컨투어, OpenCV 라인 트레이싱](https://github.com/hoyeondev/opencv_03)**
