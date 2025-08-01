@@ -1,4 +1,4 @@
-# OpenCV_study 📚
+로# OpenCV_study 📚
 
 - 참고교재 : (https://product.kyobobook.co.kr/detail/S000001248968)
 
@@ -9,3 +9,5 @@
 **2. [이미지 프로세싱 기초](https://github.com/hoyeondev/opencv_02)**
 
 **3. [컨투어, OpenCV 라인 트레이싱](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_03)**
+
+**4. [이미지 처리(이동,확대/축소, 필터링 등)](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_04)**
