@@ -1,4 +1,4 @@
-로# OpenCV_study 📚
+# OpenCV_study 📚
 
 - 참고교재 : (https://product.kyobobook.co.kr/detail/S000001248968)
 
