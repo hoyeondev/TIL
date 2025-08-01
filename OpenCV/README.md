@@ -11,3 +11,5 @@
 **3. [컨투어, OpenCV 라인 트레이싱](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_03)**
 
 **4. [이미지 처리(이동,확대/축소, 필터링 등)](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_04)**
+
+**5. [실시간 카메라 QR 코드 스캐너 , Aruco Marker](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_05)**
