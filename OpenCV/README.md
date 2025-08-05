@@ -13,3 +13,5 @@
 **4. [이미지 처리(이동,확대/축소, 필터링 등)](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_04)**
 
 **5. [실시간 카메라 QR 코드 스캐너 , Aruco Marker](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_05)**
+
+**6. [이미지 매칭 (평균 해시 매칭, 템플릿 매칭), 이미지 특징점(Keypoints) 검출](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_06)**
