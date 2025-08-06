@@ -15,3 +15,5 @@
 **5. [실시간 카메라 QR 코드 스캐너 , Aruco Marker](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_05)**
 
 **6. [이미지 매칭 (평균 해시 매칭, 템플릿 매칭), 이미지 특징점(Keypoints) 검출](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_06)**
+
+**7. [K-평균 클러스터링(K-means Clustering), K-최근접 이웃(KNN)](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_07)**
