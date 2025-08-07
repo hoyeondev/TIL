@@ -19,3 +19,5 @@
 **7. [K-평균 클러스터링(K-means Clustering), K-최근접 이웃(KNN)](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_07)**
 
 **8. [SVM(서포트 벡터 머신), HOG, BOW](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_08)**
+
+**9. [얼굴 검출, 얼굴 인식 알고리즘](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_09)**
