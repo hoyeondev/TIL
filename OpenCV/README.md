@@ -21,3 +21,5 @@
 **8. [SVM(서포트 벡터 머신), HOG, BOW](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_08)**
 
 **9. [얼굴 검출, 얼굴 인식 알고리즘](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_09)**
+
+**10. [EasyOCR](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_10)**
