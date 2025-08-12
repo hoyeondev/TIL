@@ -23,3 +23,7 @@
 **9. [얼굴 검출, 얼굴 인식 알고리즘](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_09)**
 
 **10. [EasyOCR](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_10)**
+
+**11. [tensorflow](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_11)**
+
+**12. [YOLO](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_12)**
