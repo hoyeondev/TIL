@@ -24,6 +24,6 @@
 
 **10. [EasyOCR](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_10)**
 
-**11. [tensorflow](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_11)**
+**11. [Tensorflow](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_11)**
 
-**12. [YOLO](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_12)**
+**12. [YOLO, Roboflow](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_12)**
