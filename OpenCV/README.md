@@ -27,3 +27,5 @@
 **11. [Tensorflow 개념](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_11)**
 
 **12. [YOLO](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_12)**
+
+**13. [미니 프로젝트](https://github.com/hoyeondev/quality_check_project)**
