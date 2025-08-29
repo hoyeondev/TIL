@@ -12,7 +12,9 @@
 
 **4. [흉부 엑스선 기반 폐렴 진단/Gradio](study/250828.md)**
 
-**5. [Teachable machine/가위바위보 인식](study/250829.md)**
+**5. [Teachable machine](study/250829.md)**
+
+
 ---
 
 

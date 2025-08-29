@@ -28,4 +28,4 @@
 
 **12. [YOLO](https://github.com/hoyeondev/opencv_tutorial/tree/main/opencv_12)**
 
-**13. [미니 프로젝트](https://github.com/hoyeondev/quality_check_project)**
+**13. [미니 프로젝트 : 스마트팩토리 제품 불량 검사 (YOLO 기반) ](https://github.com/hoyeondev/quality_check_project)**
