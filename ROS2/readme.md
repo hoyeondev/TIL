@@ -1,5 +1,4 @@
 # ROS2 Learning Log 📚
-This repository contains my learning journey with ROS 2 (Robot Operating System 2).
 
 - 참고자료 : https://github.com/ros/ros_tutorials/tree/humble/turtlesim
 - 참고교재 : https://product.kyobobook.co.kr/detail/S000061695943
