@@ -14,7 +14,7 @@
 
 **5. [Teachable machine](study/250829.md)**
 
-
+**6. [LLM, LLM 활용](study/250902.md)**
 ---
 
 
