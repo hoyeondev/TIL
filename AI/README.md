@@ -16,6 +16,8 @@
 
 **6. [LLM, LLM 활용](study/250902.md)**
 
+**7. [미니 프로젝트 : 영화 리뷰 감정 분석기](https://github.com/hoyeondev/ai_movie_review)**
+
 
 ---
 
