@@ -10,3 +10,4 @@
 | 2   | Algorithm  | 알고리즘 학습 기록 |
 | 3   | OpenCV  | OpenCV 학습 및 실습 기록 |
 | 4   | AI      | - 선형회귀와 분류<br>- ML 기초이론<br>- ANN, DNN<br>- CNN, RNN<br>- 파인 튜닝, 사전학습 모델 활용 |
+| 5   | 서버 프로그래밍 | - spring boot 이해<br>- JPA로 DB 활용<br>- 화면 구성<br>- 로그인 기능 구현|
