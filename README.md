@@ -1,5 +1,5 @@
 # TIL
-### Today I Learned ✍🏻
+## Today I Learned ✍🏻
 배우고 익힌 것을 저장하는 Repository
 
 
